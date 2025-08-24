@@ -16,5 +16,8 @@ This portfolio highlights selected projects that showcase my expertise in automa
   A lightweight, browser-based tool for securely visualizing OFS export data, accelerating troubleshooting without exposing sensitive information.
 
 - [Vulnerability Management Visibility Optimization](./optimizations/vulnerability_management.md)  
-  A Python + Pandas solution correlating CMDB package data with NVD vulnerabilities, reducing analysis time from 10 hours to 5 minutes and giving management better insight into patching priorities.  
+  A Python + Pandas solution correlating CMDB package data with NVD vulnerabilities, reducing analysis time from 10 hours to 5 minutes and giving management better insight into patching priorities.
+
+- [Instance Sanity Check Automation](./optimizations/instance_sanity_check.md)  
+  Centralized UI + PHP/jMeter solution that reduced validation time for 30–50 customer instances from hours to minutes, standardized the process, and inspired later adoption of Puppeteer-based tools.  
 <!-- Add more projects as you expand -->
