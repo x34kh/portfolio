@@ -24,4 +24,9 @@ This solution reduced manual intake effort, improved accuracy in activity classi
 - **Languages & Frameworks:** Python, Telegram Bot API  
 - **AI/LLM:** Ollama (Llama 3.2)  
 - **Workflow Orchestration:** N8N  
-- **Field Service Integration:** Oracle Field Service Cloud  
+- **Field Service Integration:** Oracle Field Service Cloud
+
+<img width="641" height="1303" alt="image" src="https://github.com/user-attachments/assets/9e5148cf-b068-4854-8908-489c58547e24" />
+<img width="656" height="855" alt="image" src="https://github.com/user-attachments/assets/8741dfd0-79d0-45af-bef8-6aa7ed7b55fe" />
+
+ 
